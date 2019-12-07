@@ -1,11 +1,8 @@
 import React from 'react';
-
+import Header from './Header.js';
 function App() {
   return (
     <div>
-    <div className="header">
-          Phone Directory
-        </div>
         <button>Add</button>
         <div>
           <span>Name</span><br />
